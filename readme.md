@@ -127,3 +127,6 @@ Here's a list of all CSS classes for styling:
 - **.mindmap-subnode-text**: `div` element containing a subnode;
 - **.mindmap-connection**: `path` element for each connection;
 - **.mindmap-emoji**: `img` tag for emoji
+
+
+Now it's chlbri
